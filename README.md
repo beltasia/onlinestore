@@ -120,7 +120,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions or suggestions, feel free to reach out:
-- **GitHub**: [your-username](https://github.com/beltasia)
+- **GitHub**:[beltasia] (https://github.com/beltasia)
 
 ---
 
