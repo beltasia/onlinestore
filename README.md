@@ -30,9 +30,9 @@ Welcome to **Run It**, your go-to online store for the best sneakers! This proje
 
 ## Technologies Used
 
-- **HTML**: Structure of the website.
-- **CSS**: Styling and layout.
-- **JavaScript**: Functionality for adding/removing items, calculating totals, and handling the purchase process.
+- **HTML**: Structure of the website.[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS**: Styling and layout.![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **JavaScript**: Functionality for adding/removing items, calculating totals, and handling the purchase process.![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
